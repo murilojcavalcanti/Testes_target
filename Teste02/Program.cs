@@ -31,13 +31,12 @@ while(Fibonacci<=valor){
 
 foreach (int fibo in listaFibonacci)
 {
-if(fibo==valor){
+  if(fibo==valor){
     pertence=true;
     break;
-}else{
+  }else{
     pertence=false;
-}
-
+  }
 }
 
 if(pertence==true){
