@@ -1,0 +1,15 @@
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\bin\Debug\net7.0\Teste04.exe
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\bin\Debug\net7.0\Teste04.deps.json
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\bin\Debug\net7.0\Teste04.runtimeconfig.json
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\bin\Debug\net7.0\Teste04.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\bin\Debug\net7.0\Teste04.pdb
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\Teste04.csproj.AssemblyReference.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\Teste04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\Teste04.AssemblyInfoInputs.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\Teste04.AssemblyInfo.cs
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\Teste04.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\Teste04.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\refint\Teste04.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\Teste04.pdb
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\Teste04.genruntimeconfig.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste04\obj\Debug\net7.0\ref\Teste04.dll
