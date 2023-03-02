@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WOUPC/wbMWMgBrAWJQcETthA6UgivTiwvVf/gSz2BfCEzXsslthVhNOYiiZg6reK0rZbQo2PkjHI2ln5nLWvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murilo Cavalcanti\\Documents\\00 Programação\\C#\\Testes_Target\\Teste03\\Teste03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murilo Cavalcanti\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

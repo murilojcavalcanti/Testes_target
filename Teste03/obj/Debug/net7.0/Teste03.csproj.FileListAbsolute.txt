@@ -1,0 +1,17 @@
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\bin\Debug\net7.0\Teste03.exe
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\bin\Debug\net7.0\Teste03.deps.json
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\bin\Debug\net7.0\Teste03.runtimeconfig.json
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\bin\Debug\net7.0\Teste03.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\bin\Debug\net7.0\Teste03.pdb
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.csproj.AssemblyReference.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.AssemblyInfoInputs.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.AssemblyInfo.cs
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.csproj.CopyComplete
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\refint\Teste03.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.pdb
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\Teste03.genruntimeconfig.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Testes_Target\Teste03\obj\Debug\net7.0\ref\Teste03.dll
