@@ -10,7 +10,8 @@ IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 */
 int Fibonacci=1;
-int numeroAnterior=0;
+int numeroAnterior1=0;
+int numeroAnterior2=0;
 List<int> listaFibonacci = new List<int>();
 bool pertence=false;
 
@@ -18,15 +19,15 @@ bool pertence=false;
 System.Console.WriteLine("Digite um valor");
 int.TryParse(Console.ReadLine(), out int valor);
 
-int contador=0;
+
 while(Fibonacci<=valor){
-    Fibonacci=Fibonacci+numeroAnterior;
+    Fibonacci=numeroAnterior2+numeroAnterior1;
     System.Console.WriteLine(Fibonacci);
 
     listaFibonacci.Add(Fibonacci);
 
-    numeroAnterior++;
-    contador++;
+    numeroAnterior2++;
+    numeroAnterior1++;    
 }
 
 foreach (int fibo in listaFibonacci)
