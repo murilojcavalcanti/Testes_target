@@ -9,9 +9,9 @@
 IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 */
-int Fibonacci=1;
-int numeroAnterior1=0;
-int numeroAnterior2=0;
+int Fibonacci=0;
+int numero1=1;
+int numero2=0;
 List<int> listaFibonacci = new List<int>();
 bool pertence=false;
 
@@ -21,14 +21,14 @@ int.TryParse(Console.ReadLine(), out int valor);
 
 
 while(Fibonacci<=valor){
-    Fibonacci=numeroAnterior2+numeroAnterior1;
-    System.Console.WriteLine(Fibonacci);
+   System.Console.WriteLine(Fibonacci);   
+   Fibonacci=numero2+numero1;
+   numero2=numero1;
+   numero2=Fibonacci;
 
     listaFibonacci.Add(Fibonacci);
 
-    numeroAnterior2++;
-    numeroAnterior1++;    
-}
+ }
 
 foreach (int fibo in listaFibonacci)
 {
