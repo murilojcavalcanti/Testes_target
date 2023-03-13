@@ -24,7 +24,7 @@ while(Fibonacci<=valor){
    System.Console.WriteLine(Fibonacci);   
    Fibonacci=numero2+numero1;
    numero2=numero1;
-   numero2=Fibonacci;
+   numero1=Fibonacci;
 
     listaFibonacci.Add(Fibonacci);
 
